@@ -1,0 +1,32 @@
+
+.container{
+  height: 20vh;
+  width: 100%;
+  font-family: sans-serif;
+  color: #FFF;
+  /* position: fixed;
+  z-index: 1; */
+
+}
+header{
+  padding: 50px;
+  font-size: 30px;
+}
+ul{
+display: flex;
+justify-content: flex-end;
+align-items: center;
+list-style: none;
+position: relative;
+top: -35px;
+
+}
+li{
+  padding-right: 50px;
+}
+.link{
+  text-decoration: none;
+  font-family: sans-serif;
+  font-size: 14px;
+  color: #FFF;
+}
